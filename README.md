@@ -32,7 +32,7 @@ Dự án sử dụng bộ dữ liệu năng lượng mặt trời quang điện 
 
 ## Các mô hình
 
-- Mô hình cơ sở Persistence (Persistence baseline)
+- Mô hình cơ sở 
 - XGBoost
 - LSTM
 - Mô hình lai XGBoost-LSTM
@@ -42,3 +42,5 @@ Dự án sử dụng bộ dữ liệu năng lượng mặt trời quang điện 
 - MAE
 - RMSE
 - R²
+- NRMSE
+- MAPE
