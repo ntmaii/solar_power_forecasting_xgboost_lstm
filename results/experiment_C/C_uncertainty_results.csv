@@ -1,0 +1,5 @@
+Method,Scope,N,PICP,MPIW,CRPS,Pinball Loss
+Gaussian (Uncalibrated),Observed valid,281281,0.938208,5.077821,0.748802,0.106832
+MC Ensemble (Calibrated),Observed valid,281281,0.898017,4.409151,0.789164,0.121912
+Conformal (paper Q97.5 abs-error),Observed valid,281281,0.979657,14.649717,,
+Split conformal (Q95 finite sample),Observed valid,281281,0.957836,9.103684,,
